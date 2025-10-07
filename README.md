@@ -1,2 +1,2 @@
 # Madden-Generator
-Upload both csv files to your Google Drive
+Upload both CSV files to your Google Drive
